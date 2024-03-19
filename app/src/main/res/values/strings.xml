@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">informacoes</string>
+    <string name="msgTitulo">Cadastro de Informações</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_email">Digite seu e-mail</string>
+    <string name="dt_Nascimento">Data de nascimento</string>
+    <string name="nivelEscolaridade">Escolaridade:</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="msgTitulo2">Visualizar Dados Cadastrados</string>
+    <string name="txtNome">Nome:</string>
+    <string name="msgEmail">E-mail:</string>
+    <string name="msgDataNasc">Data nascimento:</string>
+    <string name="msgNome">Nome:</string>
+    <string name="msgEscolaridade">Escolaridade:</string>
+
+    <string-array name="listaEscolaridade">
+        <item>Fundamental</item>
+        <item>Médio</item>
+        <item>Técnico</item>
+        <item>Superior</item>
+    </string-array>
+</resources>
